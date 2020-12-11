@@ -1,5 +1,5 @@
 # Modem_Restart
- Modem Restart Tool for Zyxel VMG1312-T20
+ Modem Restart Tool for Zyxel VMG1312-T20B
  
 # Usage:
   python modem_restart.py modem_username modem_password
