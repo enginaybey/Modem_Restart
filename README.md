@@ -3,9 +3,11 @@
  
 # Usage:
   Online version: python modem_restart.py modem_username modem_password
+  
   Offline version: python modem_restart.py modem_username modem_password driver_path
 # Example: 
   Online version: python modem_restart.py admin 1234
+  
   Offline version: python modem_restart.py admin 1234 C:/driver/chromedriver.exe
   
 # Note:
